@@ -1,0 +1,2 @@
+MAX_NUM = 50
+MIN_NUM = 10
